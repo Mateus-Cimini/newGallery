@@ -91,12 +91,12 @@ ul li:hover .overlay-images-link{
 
 @media (max-width: 1024px) {
     ul li {
-        width: 50%; /* 2 por linha */
+        width: 50%; 
     }
 }
 
 @media (max-width: 640px) {
     ul li {
-        width: 100%; /* 1 por linha */
+        width: 100%; 
     }
 }
